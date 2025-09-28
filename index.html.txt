@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Website đầu tiên</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    h1 { color: blue; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Chào mừng bạn đến với website của tôi!</h1>
+  <p>Đây là website đầu tiên mình tự làm 😍</p>
+</body>
+</html>
